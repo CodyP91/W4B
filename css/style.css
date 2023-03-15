@@ -1,0 +1,57 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'PT Sans', sans-serif;
+}
+
+header {
+	background-color: #0084FF;
+	height: 60px;
+	display: flex;
+	align-items: center;
+	padding: 0 20px;
+}
+
+.logo img {
+	max-height: 40px;
+}
+
+main {
+	padding: 20px;
+}
+
+.box {
+	padding: 20px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+}
+
+.blue {
+	background-color: #B8DDFF;
+}
+
+.green {
+	background-color: #CAF0DB;
+}
+
+.red {
+	background-color: #FFD2D2;
+}
+
+.yellow {
+	background-color: #FFE7C4;
+}
+
+.purple {
+	background-color: #D5D4F5;
+}
+
+.grey {
+	background-color: #333333;
+}
+
+.box
